@@ -10,7 +10,7 @@ I enjoy building web applications, exploring modern technologies, and turning id
 - Interested in **software architecture, DevOps, cloud technologies, and AI**
 - Building projects to improve my engineering skills through practice
 - Working on [Visualex Dev](https://visualexdev.fr), a web development business
-- Portfolio: [alexmarescaux-portfolio.vercel.app](https://alexmarescaux-portfolio.vercel.app)
+- Portfolio: [Cliquez ici](https://portfolio-alexmarescaux.vercel.app)
 
 ---
 
@@ -92,13 +92,13 @@ I believe the best way to become a better developer is to **keep building, keep 
 ## Connect with Me
 
 <p align="left">
-  <a href="https://alexmarescaux-portfolio.vercel.app">
+  <a href="https://portfolio-alexmarescaux.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://visualexdev.fr">
     <img src="https://img.shields.io/badge/Visualex_Dev-14532D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visualex Dev" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/AlexMrsx">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
